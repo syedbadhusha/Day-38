@@ -1,0 +1,23 @@
+[
+    {
+        "roomid":1,
+        "roomname":"room1",
+        "availableseat":4,
+        "amenities":["projector","chair","Board"],
+        "priceperhour":2500
+    },
+    {
+        "roomid":2,
+        "roomname":"room2",
+        "availableseat":3,
+        "amenities":["projector","chair","Board"],
+        "priceperhour":1500
+    },
+    {
+        "roomid":3,
+        "roomname":"room3",
+        "availableseat":4,
+        "amenities":["projector","chair","Board"],
+        "priceperhour":3500
+    }
+]

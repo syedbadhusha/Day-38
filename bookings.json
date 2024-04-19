@@ -1,0 +1,23 @@
+[
+    {
+        "customername":"sankar",
+        "date":"19-04-2024",
+        "starttime":"12PM",
+        "endtime":"4PM",
+        "roomid":1
+    },
+    {
+        "customername":"syed",
+        "date":"20-04-2024",
+        "starttime":"12PM",
+        "endtime":"4PM",
+        "roomid":1
+    },
+    {
+        "customername":"rahul",
+        "date":"19-04-2024",
+        "starttime":"12PM",
+        "endtime":"4PM",
+        "roomid":2
+    }
+]
