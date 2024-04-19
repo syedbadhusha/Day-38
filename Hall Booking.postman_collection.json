@@ -21,12 +21,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/createroom",
-					"protocol": "http",
+					"raw": "https://hall-booking-6wyy.onrender.com/createroom",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"hall-booking-6wyy",
+						"onrender",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"createroom"
 					]
@@ -40,12 +41,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/rooms",
-					"protocol": "http",
+					"raw": "https://hall-booking-6wyy.onrender.com/rooms",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"hall-booking-6wyy",
+						"onrender",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"rooms"
 					]
@@ -68,12 +70,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/createbooking",
-					"protocol": "http",
+					"raw": "https://hall-booking-6wyy.onrender.com/createbooking",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"hall-booking-6wyy",
+						"onrender",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"createbooking"
 					]
@@ -87,12 +90,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/bookings",
-					"protocol": "http",
+					"raw": "https://hall-booking-6wyy.onrender.com/bookings",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"hall-booking-6wyy",
+						"onrender",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"bookings"
 					]
@@ -106,12 +110,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/bookedrooms",
-					"protocol": "http",
+					"raw": "https://hall-booking-6wyy.onrender.com/bookedrooms",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"hall-booking-6wyy",
+						"onrender",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"bookedrooms"
 					]
@@ -125,12 +130,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/noofbookings",
-					"protocol": "http",
+					"raw": "https://hall-booking-6wyy.onrender.com/noofbookings",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"hall-booking-6wyy",
+						"onrender",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"noofbookings"
 					]
