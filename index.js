@@ -71,7 +71,7 @@ async function bookedr() {
 
   return bookedrooms;
 }
-//// get method to get list all rooms with booked data with
+//// get method to get list all rooms  with booked data with
 app.get("/bookedrooms", async (req, res) => {
   res.json(await bookedr());
 });
