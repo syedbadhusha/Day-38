@@ -1,4 +1,5 @@
 #Room json format should be same as follow
+    -
     {
         "roomid":1,
         "roomname":"room1",
@@ -8,6 +9,7 @@
     }
 
 #bookings json format shoult be same as follow
+    -
     {
         "customername":"rahul",
         "date":"19-04-2024",
